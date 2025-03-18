@@ -12,10 +12,7 @@
 )](https://www.linkedin.com/in/sai-sravan-kumar/)
 
 
-## Tools
 
-
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/></a> <a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://obsidian.md/" target="_blank"> <img src="https://obsidian.md/favicon.ico" alt="Obsidian" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
 ##  Skills
 
@@ -25,33 +22,31 @@
     
 - Front-End Development:
   
-  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![React.js](https://img.shields.io/badge/React.js%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"  width="40" height="40"/>
 
 - **Web Frameworks**:
-  
-  ![Express.js](https://img.shields.io/badge/Express.js%20-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
+           
+  ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?style=flat-square&logo=flask&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+  ![Django](https://img.shields.io/badge/Spring%20Boot%20-%6DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
 - **Cloud Hosting**:
 
-  ![Azure](https://img.shields.io/badge/Azure%20-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS%20-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![OpenStack](https://img.shields.io/badge/OpenStack%20-%23F01742.svg?style=for-the-badge&logo=openstack&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker%20-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes%20-%233C8EB7.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/Jenkins%20-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-  ![Ansible](https://img.shields.io/badge/Ansible%20-%23100F0F.svg?style=for-the-badge&logo=ansible&logoColor=white)
-
+  ![AWS](https://img.shields.io/badge/AWS%20-%23232F3E.svg?style=flat-square&logo=amazonwebservices&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker%20-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes%20-%233C8EB7.svg?style=flat-square&logo=kubernetes&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins%20-%23D24939.svg?style=flat-square&logo=jenkins&logoColor=white)
+  ![Ansible](https://img.shields.io/badge/Ansible%20-%23100F0F.svg?style=flat-square&logo=ansible&logoColor=white)
+<!-- ![Azure](https://img.shields.io/badge/Azure%20-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) -->
 - **Softwares and Tools**:
 
+
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/></a> <a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://obsidian.md/" target="_blank"> <img src="https://obsidian.md/favicon.ico" alt="Obsidian" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" />
+          
 
 <br>
 
