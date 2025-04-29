@@ -55,6 +55,6 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div align="center">
 
-  ![sravankumar999's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sravankumar999&theme=dark&show_icons=true&hide_border=true&layout=compact)
+  ![sravankumar999's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sravankumar999&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 </div>
 
